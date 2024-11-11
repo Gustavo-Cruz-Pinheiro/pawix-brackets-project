@@ -1,4 +1,4 @@
-# Pawix Brackets Project
+# Pawix Brackets TypeScript
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
@@ -9,30 +9,21 @@ O objetivo do projeto foi desenvolver um projeto para implementar a biblioteca @
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-    "@pawix/react-brackets": "^0.4.7",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-    "@eslint/js": "^9.8.0",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "eslint": "^9.8.0",
-    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
-    "eslint-plugin-react-refresh": "^0.4.9",
-    "globals": "^15.9.0",
-    "typescript": "^5.5.3",
-    "typescript-eslint": "^8.0.0",
-    "vite": "^5.4.0"
+    * @pawix/react-brackets;
+    * React;
+    * Globals;
+    * TypeScript; e
+    * Vite.
 
 ## 🚀 Como executar o projeto
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/Gustavo-Cruz-Pinheiro/pawix-brackets-project.git
+$ git clone https://github.com/Gustavo-Cruz-Pinheiro/pawix-brackets-typescript.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd pawix-brackets-project
+$ cd pawix-brackets-typescript
 
 # Instale as dependências com
 $ npm i
