@@ -9,11 +9,11 @@ O objetivo do projeto foi desenvolver um projeto para implementar a biblioteca @
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-    * @pawix/react-brackets;
-    * React;
-    * Globals;
-    * TypeScript; e
-    * Vite.
+* @pawix/react-brackets;
+* React;
+* Globals;
+* TypeScript; e
+* Vite.
 
 ## 🚀 Como executar o projeto
 
